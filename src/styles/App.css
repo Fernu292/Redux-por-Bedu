@@ -1,0 +1,17 @@
+body {
+  margin: 100px;
+}
+.container-table {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+}
+.table {
+  width: 100%;
+}
+
+.table td{
+  padding: 10px 0;
+}
